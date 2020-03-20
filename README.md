@@ -9,3 +9,6 @@
 * It will prompt the user a list of team members. By making one choice, the questions will be given. All members have same three questions about name, email, and id; one more question is related to a member's role in the company (office number, GitHub username and school. <br>
 
 * The project generates a team.html page in the output that dispalys a nicely formatted team roster. <br> 
+
+### The URL of the GitHub repository:
+* https://github.com/iwidener/Template-Engine-Employee-Summary
